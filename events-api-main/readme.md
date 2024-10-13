@@ -1,3 +1,3 @@
 Integrantes:
-Wendy Macea Diaz
-Diego Miranda
+Wendy Macea Diaz, Diego Miranda
+
